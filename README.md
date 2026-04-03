@@ -144,6 +144,6 @@ Predicted sentiment (Positive / Negative) + confidence score
 
 ## 👤 Author
 
-**Your Name** — [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+**Rayen Hmida** — [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
 
 *Project built as part of my Data Science internship/apprenticeship search.*
